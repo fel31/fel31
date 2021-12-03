@@ -52,7 +52,7 @@
 
   <span>✔️JUnit pour Java<span/>
        
- <h3>Les outils que j'utilise</h3>
+ <h3>Les outils que j'utilise :</h3>
        <hr>
  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
  
