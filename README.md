@@ -1,4 +1,5 @@
-![Souad](https://user-images.githubusercontent.com/62654985/144409543-d5b3466e-1566-440e-8c4a-8c1d4373752e.png)
+
+![Souad](https://user-images.githubusercontent.com/62654985/144596852-bb55731c-c3f5-470b-8931-439334439d8b.gif)
 
 <h1 align="center">salut 👋, Je suis Souad </h1>
 <h3 align="center">Passionnée par le développement Web</h3>
