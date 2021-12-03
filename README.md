@@ -47,9 +47,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
    <p> ✔️Hibernate   </p>
 
-<h3>testing </h3>
+<h3> En Testing </h3>
        <hr>
- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <span>Jest<span/>
+
+  <span>✔️JUnit pour Java<span/>
        
  <h3>Les outils que j'utilise</h3>
        <hr>
