@@ -11,7 +11,7 @@
 <hr>
 <p>
 
-<span>Mes projets :   <span/> <a href="https://codepen.io/souad__oueslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souad__oueslati" height="40" width="40" /></a> 
+<span> --> Mes projets :   <span/> <a href="https://codepen.io/souad__oueslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souad__oueslati" height="40" width="40" /></a> 
 
 <span> --> Mon profil linkedIn :   </span> <a href="https://linkedin.com/in/in/souad-oueslati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/souad-oueslati/" height="30" width="40" /></a> 
 </p>
