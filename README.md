@@ -3,9 +3,6 @@
 
 
 <h1 align="center">salut 👋, Je suis Souad </h1>
-<h3 align="center">Passionnée par le développement Web</h3>
-
-<p align="center">Je suis Conceptrice Developpeuse en formation.</p>
 
 
 <h3>Vous pouvez voir mes profils ici : </h3>
@@ -18,7 +15,7 @@
 </p>
 
        
-<h2 align="center">Voici ce que j'étudie pendant ma formation : </h2>
+
 <h3> En Front-end : </h3>
 <hr>
 <div align="left">
@@ -27,10 +24,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>     
 <br>
+       
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+
+![1174949_js_react js_logo_react_react native_icon](https://user-images.githubusercontent.com/62654985/174559054-531f7b74-3530-4daf-a977-1a81f8856c04.png)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>  
 
 <h3>CMS : </h3>
